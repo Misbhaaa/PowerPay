@@ -1,2 +1,8 @@
 # PowerPay
-Electricity Billing System
+The Electricity Billing System is a comprehensive web-based application designed to streamline the billing process for both customers and administrators. The system incorporates secure user authentication with separate login pages for customers and administrators, ensuring data privacy and access control. The key functionalities include customer registration, account management, bill generation, payment tracking,and receipt generation.For administrators, the system offers a secure login interface that grants access to a dashboard with multiple features. Admins can add new customers to the system, view customer details, assign bills, and monitor payment statuses. The administration interface also provides a convenient overview of customers who have paid their bills and those who are yet to make payments.Customers can utilize a dedicated login page to access their accounts. Once logged in, they can view and update their personal details, check their current bill status,and make payments securely. The system supports an efficient billing mechanism where administrators can assign bills to customers, and customers can easily view and pay their bills online.Additionally, the system generates electronic receipts for payments made by customers, offering a convenient way to keep track of transactions. This feature ensures transparency in the billing process and provides customers with proof of payment.
+Key Features:
+1. User Authentication: Separate login pages for customers and administrators to ensure secure access.
+2. Customer Management: Admins can add, view, and update customer details.
+3. Billing System: Admins can assign bills to customers, and customers can view and pay their bills.
+4. Payment Tracking: Admins can monitor payment statuses and view a list of customerswho have paid.
+5. Receipt Generation: Automated electronic receipts for customer payments, providingproof of transaction.
